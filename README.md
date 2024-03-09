@@ -1,5 +1,4 @@
-This is just a trial model for Liquid Neural Network on EEG emotions database
-.
+This is just a trial model for Liquid Neural Network on EEG emotions database.
 .
 .
 .
